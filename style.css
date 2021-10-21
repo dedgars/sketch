@@ -1,1 +1,32 @@
 
+
+body {
+    font-family: arial;
+    margin: 25px;
+    background-color: lightgrey;
+}
+
+
+
+#container {
+
+
+    padding: 15px;
+    background-color: darkgray;
+    vertical-align: middle;
+}
+
+
+#sketchPadDiv {
+    height: 160px;
+    width: 160px;
+    margin: auto;
+}
+
+#pixel {
+    height: 20px;
+    width: 20px;
+    background-color: darkgreen;
+    display: inline-block;
+    vertical-align: top;
+}
